@@ -3,6 +3,12 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+
+/*
+Contributed by
+Pawan Dhangar
+*/
+
 public class Beautiful {
     public static void main(String[] args) throws java.lang.Exception {
         // Input
