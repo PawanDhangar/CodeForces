@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+
+/*
+Contributed by
+Pawan Dhangar
+*/
+
 public class Nearly {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
