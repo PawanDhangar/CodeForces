@@ -1,6 +1,12 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
+
+/*
+Contributed by
+Pawan Dhangar
+*/
+
 public class Boy_and_girl {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
