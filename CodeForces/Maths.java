@@ -1,6 +1,12 @@
 import java.util.*;
 import java.io.*;
 
+
+/*
+Contributed by
+Pawan Dhangar
+*/
+
 public class Maths {
 
     public static void main(String[] args) {
