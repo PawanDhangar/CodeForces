@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+
+/*
+Contributed by
+Pawan Dhangar
+*/
+
 public class George {
     static Scanner scan = new Scanner(System.in);
 
